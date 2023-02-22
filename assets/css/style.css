@@ -82,6 +82,10 @@ h1,h2 {
     border: 1px #81a97b solid;
 }
 
+.active {
+    border-bottom: 1px solid #81a97b;
+}
+
 /* ------------- Hero Image ------------- */
 
 #hero-outer {
