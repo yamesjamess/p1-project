@@ -29,6 +29,7 @@ h1,h2 {
     position: relative;
     width: 250px;
     float: left;
+    height: 10px;
 }
 
 #logo {
@@ -65,8 +66,6 @@ h1,h2 {
 #download-btn-container{
     float: right;
     margin-right: 30px;
-    
-    
 }
 
 #download-btn {
@@ -81,4 +80,21 @@ h1,h2 {
     background-color: #fff;
     color: #81a97b;
     border: 1px #81a97b solid;
+}
+
+/* ------------- Hero Image ------------- */
+
+#hero-outer {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#hero-image {
+    height: 900px;
+    width: 100%;
+    background: url('../images/sotofox-hero-image.jpg') no-repeat center center;
+    background-size: cover;
 }
