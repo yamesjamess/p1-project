@@ -98,3 +98,15 @@ h1,h2 {
     background: url('../images/sotofox-hero-image.jpg') no-repeat center center;
     background-size: cover;
 }
+
+/* ------------- About Section ------------- */
+
+#about {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+#about h2{
+    text-decoration: underline;
+}
