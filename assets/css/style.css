@@ -11,3 +11,74 @@ body{
     font-weight: 400;
     color: #81a97b;
 }
+
+a {
+    text-decoration: none;
+}
+
+/* ------------- Header ------------- */
+
+h1,h2 {
+    font-family: 'Text Me One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #81a97b;
+}
+
+#logo-container{
+    position: relative;
+    width: 250px;
+    float: left;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+#logo-text{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 100px;
+}
+
+#menu {
+    font-size: 180%;
+}
+
+#menu li {
+    float: left;
+    list-style: none;
+    padding-left: 30px;
+    margin-right: 5px;
+}
+
+#menu, #logo-container, #download-btn-container{
+    line-height: 115px;
+}
+
+#menu a{
+    color: inherit;
+}
+
+#download-btn-container{
+    float: right;
+    margin-right: 30px;
+    
+    
+}
+
+#download-btn {
+    padding: 10px 20px;
+    background-color: #81a97b;
+    font-size: 180%;
+    border-radius: 30px;
+    color: #fff;
+}
+
+#download-btn-container a:hover {
+    background-color: #fff;
+    color: #81a97b;
+    border: 1px #81a97b solid;
+}
