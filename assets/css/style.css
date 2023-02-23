@@ -109,7 +109,7 @@ h1,h2 {
 
 #about {
     text-align: center;
-    margin-top: 50px;
+    margin: 70px 0px 40px 0px;
     font-size: 1.5rem;
 }
 
@@ -156,10 +156,35 @@ h1,h2 {
 
 #services {
     text-align: center;
-    margin-top: 50px;
+    margin: 70px 0px 70px 0px;
     font-size: 1.5rem;
 }
 
 #services h2 {
     text-decoration: underline;
+    
 }
+
+#table-left, #table-right, #table-center {
+    width: 33%;
+    margin-top: 70px;
+    line-height: 50px;
+}
+
+#table-left {
+    float: left;
+}
+
+#table-right {
+    float: right;
+}
+
+#table-center {
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+tr th{
+    color: #ffb30f;
+}
+
