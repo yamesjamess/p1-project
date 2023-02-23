@@ -9,7 +9,7 @@
 body{
     font-family: 'Gafata', sans-serif;
     font-weight: 400;
-    color: #81a97b;
+    color: #4d4d4d;
 }
 
 a {
@@ -45,7 +45,7 @@ h1,h2 {
 }
 
 #menu {
-    font-size: 180%;
+    font-size: 175%;
     color: #ffb30f;
     font-weight: 600;
 }
@@ -73,7 +73,7 @@ h1,h2 {
 #download-btn {
     padding: 10px 20px;
     background-color: #ffb30f;
-    font-size: 180%;
+    font-size: 170%;
     border-radius: 30px;
     color: #fff;
 }
@@ -99,7 +99,7 @@ h1,h2 {
 }
 
 #hero-image {
-    height: 900px;
+    height: 700px;
     width: 100%;
     background: url('../images/sotofox-hero-image.jpg') no-repeat center center;
     background-size: cover;
@@ -113,6 +113,41 @@ h1,h2 {
     font-size: 1.5rem;
 }
 
-#about h2{
+#about h2 {
     text-decoration: underline;
+}
+
+#about-left {
+    position: relative;
+    float: left;
+    width: 25%;
+    padding-top: 30px;
+    display: inline-block;
+    left: 11%;
+}
+
+#about-right {
+    position: relative;
+    width: 50%;
+    height: 344px;
+    margin-top: 30px;
+    text-align: left;
+    display: inline-block;
+    left: 10%;
+    background-color: rgba(255, 179, 15, 0.3);
+    padding: 20px;
+}
+
+#about-right h2 {
+    color: #ffb30f;
+}
+
+#about-right p {
+    font-size: 1.3em;
+    line-height: 30px;
+}
+
+#portrait {
+    width: 247px;
+    height: 344px;
 }
