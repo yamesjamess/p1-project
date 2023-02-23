@@ -24,7 +24,7 @@ h1,
 h2 {
     font-family: 'Text Me One', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 6px;
     color: #81a97b;
 }
 
@@ -239,4 +239,62 @@ tr:nth-child(even) td {
     width: 100%;
     background: url('../images/sotofox-contact-hero.JPG') no-repeat center center;
     background-size: cover;
+}
+/* ------------- Contact Form Section ------------- */
+#contact-header {
+    text-align: center;
+    padding: 70px 0px;
+    font-size: 1.5rem;
+}
+
+#contact-header h2 {
+    text-decoration: underline;
+}
+
+#contact-form h3{
+    font-size: 150%;
+    color: #ffb30f;
+}
+
+form {
+    border: 3px solid #81a97b;
+    border-radius: 5px;
+    width: 50%;
+    margin: 0 auto;
+    height: 450px;
+    min-width: 320px;
+    text-align: center;
+    padding: 3em;
+}
+
+#contact-list li{
+    display: inline-block;
+    margin: 20px 12px;
+}
+
+#contact-list a{
+    color: #4d4d4d;
+    font-size: 130%;
+}
+
+input, textarea{
+    border: 1px solid #ffb30f
+}
+
+.names {
+    float:left;
+    margin-left: 103px;
+}
+
+#fname, #lname {
+    width: 40%;
+    margin: 5px 20px;
+}
+
+#email {
+    width: 100%;
+}
+
+textarea {
+    resize: none;
 }
