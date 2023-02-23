@@ -7,7 +7,7 @@
 }
 
 body{
-    font-family: Gafata, sans-serif;
+    font-family: 'Gafata', sans-serif;
     font-weight: 400;
     color: #81a97b;
 }
@@ -46,6 +46,8 @@ h1,h2 {
 
 #menu {
     font-size: 180%;
+    color: #ffb30f;
+    font-weight: 600;
 }
 
 #menu li {
@@ -70,7 +72,7 @@ h1,h2 {
 
 #download-btn {
     padding: 10px 20px;
-    background-color: #81a97b;
+    background-color: #ffb30f;
     font-size: 180%;
     border-radius: 30px;
     color: #fff;
@@ -78,12 +80,12 @@ h1,h2 {
 
 #download-btn-container a:hover {
     background-color: #fff;
-    color: #81a97b;
-    border: 1px #81a97b solid;
+    color: #ffb30f;
+    border: 1px #ffb30f solid;
 }
 
 .active {
-    border-bottom: 1px solid #81a97b;
+    border-bottom: 1px solid #ffb30f;
 }
 
 /* ------------- Hero Image ------------- */
