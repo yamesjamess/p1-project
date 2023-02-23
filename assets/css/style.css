@@ -93,6 +93,28 @@ h2 {
     border-bottom: 1px solid #ffb30f;
 }
 
+/* ------------- Footer Section ------------- */
+
+footer {
+    font-family: 'Text Me One', sans-serif;
+    height: 150px;
+    background-color: #81a97b;
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 150%;
+    line-height: 37px;
+    letter-spacing: 2px;
+}
+
+footer li,
+footer a {
+    color: #fff;
+}
+
+
+/* ----------------------- Home page ----------------------- */
 /* ------------- Hero Image ------------- */
 
 #hero-outer {
@@ -201,23 +223,20 @@ tr:nth-child(even) td {
     background-color: rgba(255, 179, 15, 0.3);
 }
 
+/* ----------------------- Contact Page----------------------- */
+/* ------------- Hero Image ------------- */
 
-/* ------------- Footer Section ------------- */
+#contact-hero-outer {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 
-footer {
-    font-family: 'Text Me One', sans-serif;
-    height: 150px;
-    background-color: #81a97b;
-    text-align: right;
-    padding-right: 30px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    font-size: 150%;
-    line-height: 37px;
-    letter-spacing: 2px;
 }
 
-footer li,
-footer a {
-    color: #fff;
+#contact-hero-image {
+    height: 700px;
+    width: 100%;
+    background: url('../images/sotofox-contact-hero.JPG') no-repeat center center;
+    background-size: cover;
 }
