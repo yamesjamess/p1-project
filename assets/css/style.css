@@ -126,6 +126,7 @@ h1,h2 {
     padding-top: 30px;
     display: inline-block;
     left: 11%;
+    text-align: center;
 }
 
 #about-right {
