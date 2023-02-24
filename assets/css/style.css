@@ -236,7 +236,7 @@ tr:nth-child(even) td {
 
 #gallery img {
     width: 85%;
-    height: 650px;
+    height: 1000px;
     margin-bottom: 20px;
 }
 
@@ -369,7 +369,7 @@ textarea {
     padding: 15px 32px;
     margin-top: 45px;
     border-radius: 5px;
-    font-size: 1rem;
+    font-size: 1.25rem;
 }
 
 #form-btn-container button:hover {
@@ -409,7 +409,7 @@ textarea {
     padding: 15px 32px;
     margin: 45px 0px;
     border-radius: 5px;
-    font-size: 1rem;
+    font-size: 1.25rem;
 }
 
 iframe {
