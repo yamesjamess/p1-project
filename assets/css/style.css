@@ -261,7 +261,6 @@ form {
     border-radius: 5px;
     width: 50%;
     margin: 0 auto;
-    height: 450px;
     min-width: 320px;
     text-align: center;
     padding: 3em;
@@ -269,26 +268,12 @@ form {
 
 #contact-list li{
     display: inline-block;
-    margin: 20px 12px;
+    margin: 40px 12px;
 }
 
 #contact-list a{
     color: #4d4d4d;
     font-size: 130%;
-}
-
-input, textarea{
-    border: 1px solid #ffb30f
-}
-
-.names {
-    float:left;
-    margin-left: 103px;
-}
-
-#fname, #lname {
-    width: 40%;
-    margin: 5px 20px;
 }
 
 #email {
@@ -298,3 +283,67 @@ input, textarea{
 textarea {
     resize: none;
 }
+
+.container {
+    display: grid; 
+    gap: 1rem; 
+    grid-template-columns: 1fr 1fr; 
+    grid-template-areas:
+      "fname lname"
+      "email email"
+      "message message";
+  }
+
+  .container p{
+    font-size: 1.25rem;
+    text-align: left;
+  }
+  
+  label[for='fname'] {
+    grid-area: fname;
+  }
+  label[for='lname'] {
+    grid-area: lname;
+  }
+  label[for='email'] {
+    grid-area: email;
+  }
+  label[for='message'] {
+    grid-area: message;
+  }
+  
+  label p{
+    margin: 0;
+  }
+  textarea {
+    resize: none;
+    width: 100%;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  input, textarea {
+    border: 2px solid #ffb30f;
+    font-size: 1rem;
+    text-align: left;
+    padding: 5px 0px 5px 5px;
+    border-radius: 4px;
+    margin-top: 5px;
+  }
+
+  #form-button {
+    background-color: #ffb30f;
+    color: #fff;
+    padding: 15px 32px;
+    margin-top: 45px;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+
+  #form-btn-container button:hover{
+    border: 2px solid #ffb30f;
+    color: #ffb30f;
+    background-color: #fff;
+  }
