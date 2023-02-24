@@ -233,7 +233,6 @@ tr:nth-child(even) td {
     column-count: 3;
     padding: 0 50px;
     margin-bottom: 50px;
-
 }
 
 #gallery img{
@@ -241,6 +240,11 @@ tr:nth-child(even) td {
     height: 650px;
     margin-bottom: 20px;
 
+}
+
+#gallery img:hover{
+    transform: scale(1.1);
+    transition: transform ease 0.5s;
 }
    
 
