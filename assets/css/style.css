@@ -226,7 +226,22 @@ tr:nth-child(even) td {
 /* ----------------------- Gallery Page----------------------- */
 /* ------------- Gallery Section ------------- */
 
+#gallery {
+    clear: both;
+    line-height: 0;
+    text-align: center;
+    column-count: 3;
+    padding: 0 50px;
+    margin-bottom: 50px;
 
+}
+
+#gallery img{
+    width: 85%;
+    height: 650px;
+    margin-bottom: 20px;
+
+}
    
 
 /* ----------------------- Contact Page----------------------- */
