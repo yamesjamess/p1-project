@@ -122,7 +122,6 @@ footer a {
     width: 100%;
     overflow: hidden;
     position: relative;
-
 }
 
 #hero-image {
@@ -235,18 +234,17 @@ tr:nth-child(even) td {
     margin-bottom: 50px;
 }
 
-#gallery img{
+#gallery img {
     width: 85%;
     height: 650px;
     margin-bottom: 20px;
-
 }
 
-#gallery img:hover{
+#gallery img:hover {
     transform: scale(1.1);
     transition: transform ease 0.5s;
 }
-   
+
 
 /* ----------------------- Contact Page----------------------- */
 /* ------------- Hero Image ------------- */
@@ -256,7 +254,6 @@ tr:nth-child(even) td {
     width: 100%;
     overflow: hidden;
     position: relative;
-
 }
 
 #contact-hero-image {
@@ -406,7 +403,7 @@ textarea {
     margin-bottom: 70px;
 }
 
-#brochure-box a{
+#brochure-box a {
     background-color: #ffb30f;
     color: #fff;
     padding: 15px 32px;
@@ -421,4 +418,3 @@ iframe {
     min-height: 500px;
     margin-top: 45px;
 }
-
