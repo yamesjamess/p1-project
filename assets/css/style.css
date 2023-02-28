@@ -152,8 +152,6 @@ footer a {
     bottom: 70px;
     padding-top: 65px;
     padding-left: 40px;
-
-
 }
 
 /* ------------- About Section ------------- */
@@ -197,6 +195,8 @@ footer a {
 #about-right p {
     font-size: 1.3em;
     line-height: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 #portrait {
