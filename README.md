@@ -44,6 +44,8 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 * **F02 - Index Page Hero Image and Cover Text**
     * The index page include a Hero image with Cover text on top. The image is use to provide user with a visual context of who owns the business and how does his work looks like. The purpose of the cover text is to provide users with a clear indication of the nature of the business.
 
+    ![IndexHero](documentation/support-images/f02-index-hero.png)
+
 * **F03 - About Me**
     * The purpose of this section is to introduce the user to the owner and the artist of the business.
     * The image and the colour used is to evoke a warmth, cosiness, and friendliness feeling to the user.
