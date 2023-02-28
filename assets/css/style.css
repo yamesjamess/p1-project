@@ -308,6 +308,7 @@ textarea {
     resize: none;
 }
 
+/* ---- Start - This code is obtained from stackoverflow ---- */
 .container {
     display: grid;
     gap: 1rem;
@@ -338,6 +339,8 @@ label[for='email'] {
 label[for='message'] {
     grid-area: message;
 }
+
+/* ---- End - This code is obtained from stackoverflow ---- */
 
 label p {
     margin: 0;
