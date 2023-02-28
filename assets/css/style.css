@@ -71,6 +71,10 @@ h2 {
     color: inherit;
 }
 
+#menu a:hover{
+    color: #81a97b;
+}
+
 #download-btn-container {
     float: right;
     margin-right: 30px;
