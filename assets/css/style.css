@@ -218,9 +218,11 @@ tr th {
     font-size: 120%;
 }
 
+/* ---- Start - This code is obtained from stackoverflow ---- */
 tr:nth-child(even) td {
     background-color: rgba(255, 179, 15, 0.3);
 }
+/* ---- End - This code is obtained from stackoverflow ---- */
 
 /* ----------------------- Gallery Page----------------------- */
 /* ------------- Gallery Section ------------- */
