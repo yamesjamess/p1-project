@@ -42,7 +42,6 @@ h2 {
 }
 
 #logo-text {
-    display: inline-block;
     position: absolute;
     top: 0;
     left: 100px;
@@ -341,9 +340,9 @@ textarea {
     gap: 1rem;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
-        "fname lname"
-        "email email"
-        "message message";
+        'fname lname'
+        'email email'
+        'message message';
 }
 
 label {
