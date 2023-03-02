@@ -163,7 +163,7 @@ footer a {
 
 /* ------------- About Section ------------- */
 
-#about {
+#about-header {
     text-align: center;
     margin: 70px 0px 40px 0px;
     font-size: 1.5rem;
@@ -173,26 +173,19 @@ footer a {
     text-decoration: underline;
 }
 
-#about-left {
-    position: relative;
-    float: left;
-    width: 25%;
-    padding-top: 30px;
-    display: inline-block;
-    left: 11%;
-    text-align: center;
+#about-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #about-right {
-    position: relative;
     width: 50%;
     height: 344px;
-    margin-top: 30px;
-    text-align: left;
-    display: inline-block;
-    left: 10%;
     background-color: rgba(255, 179, 15, 0.3);
     padding: 20px;
+    margin-left: 50px;
 }
 
 #about-right h2 {
@@ -467,7 +460,7 @@ iframe {
 
 /* ----------------------- Media Query----------------------- */
 
-/* for small screen size from 450px wide and below */
+/* for small screen size from 550px wide and below */
 @media screen and (max-width: 550px) {
 
     header {
