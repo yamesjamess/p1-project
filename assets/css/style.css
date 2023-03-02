@@ -29,11 +29,16 @@ h2 {
     color: #81a97b;
 }
 
+header {
+    height: 120px;
+}
+
 #logo-container {
     position: relative;
     width: 250px;
     float: left;
     height: 10px;
+    display: block;
 }
 
 #logo {
