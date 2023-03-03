@@ -157,32 +157,40 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 * W3C HTML Validator
     
     *   result for index.html
-        ![HTML result index](link here)
+
+        ![HTML result index](documentation/validation-results/html-validation-result-1.png)
     *  result for gallery.html
-        ![HTML result gallery](link here)
+
+        ![HTML result gallery](documentation/validation-results/html-validation-result-2.png)
     *   result for contact.html
-        ![HTML result contact](link here)
+
+        ![HTML result contact](documentation/validation-results/html-validation-result-3.png)
     *   result for submitted.html
-        ![HTML result submitted](link here)
+
+        ![HTML result submitted](documentation/validation-results/html-validation-result-4.png)
+
+    *   Note: The hidden warnings
+
+        ![HTML hidden warnings](documentation/validation-results/html-validation-hidden.png)
 
     * Full validation results are available on GitHub here:
 
-        *
+        * <a href="https://github.com/yamesjamess/p1-sotofox-designer/blob/main/documentation/validation-results/html-validation-results-index.pdf" target="_blank">HTML Validation Results - Index </a>
 
-        *
+        * <a href="https://github.com/yamesjamess/p1-sotofox-designer/blob/main/documentation/validation-results/html-validation-results-gallery.pdf" target="_blank">HTML Validation Results - Gallery </a>
 
-        *
+        * <a href="https://github.com/yamesjamess/p1-sotofox-designer/blob/main/documentation/validation-results/html-validation-results-contact.pdf" target="_blank">HTML Validation Results - Contact </a>
 
-        *
+        * <a href="https://github.com/yamesjamess/p1-sotofox-designer/blob/main/documentation/validation-results/html-validation-results-submit.pdf" target="_blank">HTML Validation Results - Submit </a>
 
 * Jigsaw CSS Validator
 
     * result for style.css
-    ![HTML result style](link here)
+    ![CSS result](documentation/validation-results/css-validation-results.png)
 
     * Full validation results are available on GitHub here:
 
-        *
+        * <a href="https://github.com/yamesjamess/p1-sotofox-designer/blob/main/documentation/validation-results/css-validation-results.pdf" target="_blank">CSS Validation Results - style.css</a>
 
 * Lighthouse Accessibility Validator
 
