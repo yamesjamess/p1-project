@@ -510,11 +510,13 @@ iframe {
 @media screen and (max-width: 800px) {
 
     header {
-        height: 100px;
+        height: 320px;
         display: flex;
         font-size: 75%;
         flex-direction: column;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
     }
 
     #table-left, #table-right, #table-center {
