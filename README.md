@@ -194,34 +194,52 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 * Lighthouse Accessibility Validator
 
+    * The poor performance issue is due to the size and resolution of the images present on the website.
+
     *   result for index.html
-        ![HTML result index](link here)
+
+        ![Lighthouse result index](documentation/validation-results/lighthouse-result-1.png)
+
+    *   result for index.html (mobile)
+
+        ![Lighthouse result index](documentation/validation-results/lighthouse-result-mobile-1.png)  
+
     *  result for gallery.html
-        ![HTML result gallery](link here)
+
+        ![Lighthouse result gallery](documentation/validation-results/lighthouse-result-2.png)
+
+    *  result for gallery.html (mobile)
+
+        ![Lighthouse result gallery](documentation/validation-results/lighthouse-result-mobile-2.png)
+
     *   result for contact.html
-        ![HTML result contact](link here)
+
+        ![Lighthouse result contact](documentation/validation-results/lighthouse-result-3.png)
+
+    *   result for contact.html (mobile)
+
+        ![Lighthouse result contact](documentation/validation-results/lighthouse-result-mobile-3.png)
+
     *   result for submitted.html
-        ![HTML result submitted](link here)
 
-    * Full validation results are available on GitHub here:
+        ![Lighthouse result submitted](documentation/validation-results/lighthouse-result-mobile-4.png)
 
-        *
+    *   result for submitted.html (mobile)
 
-        *
+        ![Lighthouse result submitted](documentation/validation-results/lighthouse-result-mobile-4.png)
+    
 
-        *
-
-        *
 
 
 ### Browser Compatibility
 
 *   The website has been tested on these following broswes:
-    * Google Chrome ()
-    * Mozilla Firefox ()
-    * Microsoft Edge ()
+    * Google Chrome Version 110.0.5481.178 (Official Build) (64-bit)
+    * Mozilla Firefox Version 110.0.1 (64-bit)
+    * Microsoft Edge Version 110.0.1587.57 (Official build) (64-bit)
     * Apple Safari on macOS Ventura ()
-    * DuckDuckGo ()
+    * Apple Safari on iOS 16.0 (20A362)
+    * DuckDuckGo Mobile Version 7.72.2.0
 
 ### Accessibility
 
