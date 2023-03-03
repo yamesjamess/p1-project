@@ -394,12 +394,17 @@ input {
 input,
 textarea {
     border: 2px solid #81a97b;
-    font-size: 1rem;
     text-align: left;
     padding: 5px 0px 5px 5px;
     border-radius: 4px;
     margin-top: 5px;
     color: #4d4d4d;
+    
+}
+
+input, textarea, label, button {
+    font-size: 1rem;
+    font-family: 'Gafata', sans-serif;
     
 }
 
