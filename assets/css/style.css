@@ -517,6 +517,21 @@ iframe {
 
 }
 
+/* for small screen size from 700px wide and below */
+@media screen and (max-width: 700px) {
+
+    #about-right p {
+        font-size: 1rem;
+        line-height: 15px;
+    }
+
+    #table-left, #table-right, #table-center {
+        font-size: 1rem;
+    }
+
+}
+
+
 /* for small screen size from 550px wide and below */
 @media screen and (max-width: 550px) {
 
