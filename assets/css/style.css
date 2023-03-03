@@ -303,6 +303,10 @@ tr:nth-child(even) td {
     background-size: cover;
 }
 
+#contact-hero-header {
+    display: none;
+}
+
 /* ------------- Contact Form Section ------------- */
 #contact-header {
     text-align: center;
