@@ -528,6 +528,7 @@ iframe {
         margin-right: 0;
     }
 
+
 }
 
 /* for small screen size from 700px wide and below */
@@ -647,6 +648,11 @@ iframe {
 
     #gallery {
         column-count: 1;
+    }
+
+    #contact-hero-image,
+    #contact-hero-outer {
+        height: 400px;
     }
 
 }
