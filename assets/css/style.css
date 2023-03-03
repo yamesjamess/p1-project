@@ -405,7 +405,7 @@ textarea {
 input, textarea, label, button {
     font-size: 1rem;
     font-family: 'Gafata', sans-serif;
-    
+
 }
 
 #form-button {
@@ -415,10 +415,11 @@ input, textarea, label, button {
     margin-top: 45px;
     border-radius: 5px;
     font-size: 1.25rem;
+    border: 2px solid #81a97b;
 }
 
 #form-btn-container button:hover {
-    border: 2px solid #81a97b;
+    
     color: #81a97b;
     background-color: #fff;
 }
@@ -455,6 +456,12 @@ input, textarea, label, button {
     margin: 45px 0px;
     border-radius: 5px;
     font-size: 1.25rem;
+    border: 2px solid #ffb30f;
+}
+
+#brochure-box a:hover {
+    background-color: #fff;
+    color: #ffb30f;
 }
 
 iframe {
