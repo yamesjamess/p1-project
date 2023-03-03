@@ -315,8 +315,8 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 * The favicon was created by uploading the client's logo through [Favicon.io](https://favicon.io/)
 * All font used are imported from [Google Fonts](https://fonts.google.com/)
 
-### Achknoledgements
+### Acknowledgements
 
 * Thank you Alvaro Felipe Calle for helping me with some debugging
-* Brian Macharia
+* Than you for my mentor, Brian Macharia, for helping me with troubleshooting responsive designs of the overall page and the gallery. Also, for all the feedback and plannng process that you provided during our mentoring sessions.
 * Thank you Jose Soto Palafox for letting me work on this project based on your business.
