@@ -399,10 +399,13 @@ textarea {
     border-radius: 4px;
     margin-top: 5px;
     color: #4d4d4d;
-    
+
 }
 
-input, textarea, label, button {
+input,
+textarea,
+label,
+button {
     font-size: 1rem;
     font-family: 'Gafata', sans-serif;
 
@@ -419,7 +422,7 @@ input, textarea, label, button {
 }
 
 #form-btn-container button:hover {
-    
+
     color: #81a97b;
     background-color: #fff;
 }
@@ -526,7 +529,7 @@ iframe {
     #brochure-box a {
         font-size: 0.9rem;
     }
-    
+
 
 }
 
@@ -544,7 +547,9 @@ iframe {
         align-items: center;
     }
 
-    #table-left, #table-right, #table-center {
+    #table-left,
+    #table-right,
+    #table-center {
         font-size: 1.1rem;
     }
 
@@ -569,7 +574,9 @@ iframe {
         line-height: 15px;
     }
 
-    #table-left, #table-right, #table-center {
+    #table-left,
+    #table-right,
+    #table-center {
         font-size: 1rem;
     }
 
@@ -693,7 +700,7 @@ iframe {
         height: 400px;
     }
 
-    
+
 }
 
 /* for small screen size from 320px wide and below */
