@@ -245,7 +245,12 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 * [WebAIM - Contrast Checker:](https://webaim.org/resources/contrastchecker/) was utiised during the design process to determine if the colour scheme would work in term of readability and accessibility. 
     * Since the colour scheme was selected by the client in order to represent their business, there were some issue with readability and accessibility.
-    * The colour chosen was too light 
+    * The colour #F4D455 was too light, so a darker shade #FFB30F was chosen instead.
+    * To make the text more readable, the colour #FFFFFF and #4D4D4D was used when appropriate. 
+
+* [Am I Responsive:](https://ui.dev/amiresponsive) was utilised to check if the website is responsive across different viewports.
+
+* [Chrome DevTools:](https://developer.chrome.com/docs/devtools/) was also utilised to check if the website is responsive across different viewports.
 
 
 ### Test Case and Results
@@ -254,7 +259,11 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 ### Knwon Bugs
 
-* Describe any bug if theres any, and explain how to fix the bug or if the bug is left unfixed why.
+* The header has an odd section on it when inspect with chrome devtool and added outline to all header elements. 
+    *   This is solved by adding height to header element.
+
+* The p element in the about-right section kept overflowing from the container where there's background-colour.
+    *   This is partially fix with multiple media queries but at a some very specifix pixel range it still overflows. 
 
 ## Deployment
 
@@ -274,7 +283,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 * Visit the main repository at https://github.com/yamesjamess/p1-sotofox-designer.
 * Go to the https://github.com/elainebroche-dev/ms1-thrive repository on GitHub 
 * Click the "Code" button to the right of the screen, click HTTPs and copy the link present there.
-* Open a GitBash terminal and navigate to the directory where you want to locate the clone.
+* Open a GitBash terminal and navigate to the directory where you want to clone.
 * In the terminal, type "git clone" then paste in the copied url and press the Enter key to begin the clone process.
 
 ### How to fork this repository
@@ -283,6 +292,8 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 * On the top right hand corner click on the "Fork" button.
 * You will be redirected to a new page, from there enter the name you desire the name the forked repository and click "Create Fork"
 * You will now have a Fork copy of the repository on your own repository.
+
+
 
 ## Credits
 
