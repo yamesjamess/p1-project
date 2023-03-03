@@ -400,6 +400,7 @@ textarea {
     border-radius: 4px;
     margin-top: 5px;
     color: #4d4d4d;
+    
 }
 
 #form-button {
@@ -474,6 +475,10 @@ iframe {
     #about-right p {
         font-size: 1.1em;
         line-height: 25px;
+    }
+
+    #contact-list {
+        font-size: 0.85rem;
     }
 
 }
