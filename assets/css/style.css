@@ -523,6 +523,11 @@ iframe {
         font-size: 1.1rem;
     }
 
+    #download-btn-container {
+        float: none;
+        margin-right: 0;
+    }
+
 }
 
 /* for small screen size from 700px wide and below */
