@@ -493,6 +493,10 @@ iframe {
         font-size: 0.85rem;
     }
 
+    #brochure-box a {
+        font-size: 1.1rem;
+    }
+
 }
 
 /* for small screen size from 930px wide and below */
@@ -517,6 +521,10 @@ iframe {
 
     #gallery {
         column-count: 2;
+    }
+
+    #brochure-box a {
+        font-size: 0.9rem;
     }
     
 
@@ -545,6 +553,11 @@ iframe {
         margin-right: 0;
     }
 
+    #brochure-box a {
+        font-size: 0.85rem;
+        padding: 15px 10px;
+    }
+
 
 }
 
@@ -560,7 +573,15 @@ iframe {
         font-size: 1rem;
     }
 
+    #brochure-box a {
+        font-size: 0.7rem;
+        padding: 15px 10px;
+    }
+
+
 }
+
+
 
 
 /* for small screen size from 550px wide and below */
@@ -672,6 +693,7 @@ iframe {
         height: 400px;
     }
 
+    
 }
 
 /* for small screen size from 320px wide and below */
