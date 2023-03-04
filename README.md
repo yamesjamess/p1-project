@@ -237,7 +237,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
     * Google Chrome Version 110.0.5481.178 (Official Build) (64-bit)
     * Mozilla Firefox Version 110.0.1 (64-bit)
     * Microsoft Edge Version 110.0.1587.57 (Official build) (64-bit)
-    * Apple Safari on macOS Ventura ()
+    * Apple Safari on macOS Ventura Version 16.3 (18614.4.6.1.6)
     * Apple Safari on iOS 16.0 (20A362)
     * DuckDuckGo Mobile Version 7.72.2.0
 
@@ -310,7 +310,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 ### Media
 
-* All images present on the website are owned by the client.
+* All images and documents present on the website are owned and proviced by the client.
 * The colour scheme of the website is based on the colour that is provided by the client
 * The favicon was created by uploading the client's logo through [Favicon.io](https://favicon.io/)
 * All fonts used are imported from [Google Fonts](https://fonts.google.com/)
