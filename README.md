@@ -2,7 +2,7 @@
 
 [View the live project here](https://yamesjamess.github.io/p1-sotofox-designer/)
 
-Sotofox Home Designer & Artist is a website dedicated to showcasing the interior renovation and design services offered by Jose Soto Palafox, a skilled artist and designer based in Cork, Ireland. With years of experience in the industry, Jose specializes in transforming spaces into beautiful and functional works of art. The main USP of this website is to provide a platform for potential clients to learn about Jose's unique approach to interior design, view his past projects, and get in touch with him to start their own renovation or design journey.
+Sotofox Home Designer & Artist is a website dedicated to showcasing the interior renovation and design services offered by José Soto Palafox, a skilled artist and designer based in Cork, Ireland. With years of experience in the industry, José specializes in transforming spaces into beautiful and functional works of art. The main USP of this website is to provide a platform for potential clients to learn about José's unique approach to interior design, view his past projects, and get in touch with him to start their own renovation or design journey.
 
 ![Mockup](url to the mockup)
 
@@ -104,7 +104,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 ### Imagery
 
-*   The hero image was chosen because it features the owner of the business, Jose, standing in a room that he renovated, showcasing his expertise in interior design. The colours and patterns used in the room are also prominent features in the image, which helps to highlight Jose's unique style and artistic flair. The fact that the image is eye-catching and fun further help draw the user's attention to the page and would help develop an emotional attachment to the business.
+*   The hero image was chosen because it features the owner of the business, José, standing in a room that he renovated, showcasing his expertise in interior design. The colours and patterns used in the room are also prominent features in the image, which helps to highlight e's unique style and artistic flair. The fact that the image is eye-catching and fun further help draw the user's attention to the page and would help develop an emotional attachment to the business.
 
 ### Colour Scheme
 
@@ -319,4 +319,4 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 * Thank you Alvaro Felipe Calle for helping me with some debugging
 * Thank you for my mentor, Brian Macharia, for helping me with troubleshooting responsive designs of the overall page and the gallery. Also, for all the feedback and plannng process that you provided during our mentoring sessions.
-* Thank you Jose Soto Palafox for letting me work on this project based on your business.
+* Thank you José Soto Palafox for letting me work on this project based on your business.
