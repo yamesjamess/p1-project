@@ -132,7 +132,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
     
         ![Contact](documentation/wireframes/contact-wireframe.png)
 
-## Technology Used
+## Technologies Used
 
 ### Languages Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -257,7 +257,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 * The table below has listed all the test cases and details of how the test was performed, and the result of the test.
 
-![Test case and results](#)
+    ![Test cases and results](documentation/support-images/test-case.png)
 
 ### Known Bugs
 
