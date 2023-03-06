@@ -500,7 +500,7 @@ iframe {
     padding: 20px;
     margin: 0 auto;
     max-width: 450px;
-
+    background-color: #fff;
 }
 
 /* ----------------------- Media Query----------------------- */
