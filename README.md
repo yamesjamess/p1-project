@@ -259,7 +259,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 ![Test case and results](#)
 
-### Knwon Bugs
+### Known Bugs
 
 * The header has an odd section on it when inspect with chrome devtool and added outline to all header elements. 
     *   This is solved by adding height to the header element.
