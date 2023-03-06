@@ -4,7 +4,7 @@
 
 Sotofox Home Designer & Artist is a website dedicated to showcasing the interior renovation and design services offered by José Soto Palafox, a skilled artist and designer based in Cork, Ireland. With years of experience in the industry, José specializes in transforming spaces into beautiful and functional works of art. The main USP of this website is to provide a platform for potential clients to learn about José's unique approach to interior design, view his past projects, and get in touch with him to start their own renovation or design journey.
 
-![Mockup](url to the mockup)
+![Mockup](documentation/support-images/amiresponsive.png)
 
 ## Table of contents
 * [User Experience (UX)](#user-experience-ux)
@@ -33,7 +33,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 ### Existing Features
 
-* **F01 - Navigation Bar**
+* **1 - Navigation Bar**
     * The navigation bar is placed on all three pages of the website to provide users with a cohesive and coherent feel to the website. It includes the logo of the business, Home, Services, Gallery, Contact, and Download Brochure button. The navigation bar is fully responsive on both larger and smaller screen sizes. On smaller screen sizes, the menus and the "download" button are located under the logo.
     * The contrasting, bright colour download button is placed separately on the right hand side of the screen to make it eye-catching, so the user can go straight to download the brochure if they needed.
         * This download button doesn't actually download, but rather takes the user to the contact page's Brochure section. This is to provide the business with a way to collect information from the user for marketing purposes.
@@ -41,31 +41,31 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
     ![Navbar](documentation/support-images/f01-nav-bar.png)
 
-* **F02 - Index Page Hero Image and Cover Text**
+* **2 - Index Page Hero Image and Cover Text**
     * The index page includes a Hero image with Cover text on top. The image is used to provide users with a visual context of who owns the business and how does his work look like. The purpose of the cover text is to provide users with a clear indication of the nature of the business.
 
     ![IndexHero](documentation/support-images/f02-index-hero.png)
 
-* **F03 - About Me**
+* **3 - About Me**
     * The purpose of this section is to introduce the user to the owner and the artist of the business.
     * The image and the colour used to evoke warmth, cosiness, and friendliness feeling to the user.
 
     ![About](documentation/support-images/f03-about.png)
 
-* **F04 - Services**
+* **4 - Services**
     * The Services section is there to lay out different types of services provided by the business.
     * The alternating colour is there to help separate each data in the table and made it more visually appealing.
     * This section is presented in 3 separate inline tables on a larger screen. On a smaller screen, the tables follow one another vertically.
 
     ![Services](documentation/support-images/f04-services.png)
 
-* **F05 - Footer**
+* **5 - Footer**
     * The Footer is featured on all the pages and is identical on all pages. Making it easy to use and navigate.
     * The Footer consists of the social links to the business social pages and copyright.
 
     ![Footer](documentation/support-images/f05-footer.png)
 
-* **F06 - Gallery**
+* **6 - Gallery**
     * The Gallery features 9 most recent renovation works and artworks done by the business
     * The Gallery is laid out in a symmetrical 3x3 layout. This is to provide plenty of space for users to view the images.
     * The images in the Gallery also have a hover effect, which gives the Gallery a more fun and interactive user experience.
@@ -73,29 +73,29 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
     ![Gallery](documentation/support-images/f06-gallery.png)
 
-* **F07 - Contact Page Hero Image**
+* **7 - Contact Page Hero Image**
     * The Contact page also features a hero image. This is done so that the website feels consistent with the other pages.
     
     ![ContactHero](documentation/support-images/f07-contact-hero.png)
 
-* **F08 - Contact Form**
+* **8 - Contact Form**
     * The Contact form allows the user to fill in their details into the text input such as their First Name, Last Name, and Email address. It also features a Text Area input for the user to write a message/questions/queries/feedback to the business.
     * The 'Send your message' button also has the same hover effect as the download button to keep it cohesive.
     
     ![ContactForm](documentation/support-images/f08-contact.png)
 
-* **F09 - Submitted Page**
+* **9 - Submitted Page**
     * The Submitted Page replaces the form when the user submits the form. This is to give the user a visual prompt that their information has been submitted.
 
     ![Submit](documentation/support-images/f09-submit.png)
 
-* **F10 - Brochure Download Button**
+* **10 - Brochure Download Button**
     * This button allows the user to click on it to download a PDF version of the brochure to their computer.
     * This button is also essential for users whose browsers do not support iFrames, since they can download the brochure and open it on their devices if the iFrame does not show up.
 
     ![BrochureDownload](documentation/support-images/f10-brochure-download.png)
 
-* **F11 - Brochure iFrame**
+* **11 - Brochure iFrame**
     * The iFrame is placed to provide users who does not like to download things to their devices or find downloading unnecessary. They can have a quick glance at the brochure via the iFrame. Which aim is also to provide a better and interactive user experience.
 
     ![Brochure](documentation/support-images/f11-brochure-iframe.png)
@@ -255,7 +255,9 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 ### Test Case and Results
 
-* The table below has listed all the test cases and details of how the test was performed and the result of the test is then cross referenced with the Feature ID of each feature.
+* The table below has listed all the test cases and details of how the test was performed, and the result of the test.
+
+![Test case and results](#)
 
 ### Knwon Bugs
 
@@ -264,6 +266,8 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 * The p element in the about-right section kept overflowing from the container where there's background-colour.
     *   This is partially fixed with multiple media queries but at some very specific pixel range it still overflows. 
+
+* The iFrame on the contact & submit page sometimes does not load in. This most likely is because the browser simply just does not respond. After refreshing the iFrame shows up.
 
 ## Deployment
 
