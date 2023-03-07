@@ -503,6 +503,12 @@ iframe {
     background-color: #fff;
 }
 
+/* ----------------------- 404 Page----------------------- */
+
+#page-not-found-image {
+    background: url(assets/images/404-img.webp);
+}
+
 /* ----------------------- Media Query----------------------- */
 
 /* for small screen size from 1120px wide and below */
@@ -604,6 +610,15 @@ iframe {
     #brochure-box a {
         font-size: 0.7rem;
         padding: 15px 10px;
+    }
+
+    #about-section {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
     }
 
 
