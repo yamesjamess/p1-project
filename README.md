@@ -149,6 +149,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 *   [Favicon.io:](https://favicon.io/) was used to generate a Favicon (a website icon that appears in the tab of the browser or when the website is saved to the bookmark bar) for the website.
 *   [Coolors:](https://coolors.co/) was used to help generate alternative colours than the colour provided by the client for accessibility.
 *   [Fontjoy:](https://fontjoy.com/) was used to generate fonts that pairs wells together.
+*   [FreeConvert:](https://www.freeconvert.com/jpg-to-webp/) was used to convert .JPG files to .WEBP file.
 
 ## Testing
 
@@ -194,7 +195,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
 * Lighthouse Accessibility Validator
 
-    * The poor performance issue is due to the size and resolution of the images present on the website.
+    * The poor performance issue is due to the size and resolution of the images present on the website. More details in the bug section below.
 
     *   result for index.html
 
@@ -222,14 +223,11 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
     *   result for submitted.html
 
-        ![Lighthouse result submitted](documentation/validation-results/lighthouse-result-mobile-4.png)
+        ![Lighthouse result submitted](documentation/validation-results/lighthouse-result-4.png)
 
     *   result for submitted.html (mobile)
 
         ![Lighthouse result submitted](documentation/validation-results/lighthouse-result-mobile-4.png)
-    
-
-
 
 ### Browser Compatibility
 
@@ -265,9 +263,14 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
     *   This is solved by adding height to the header element.
 
 * The p element in the about-right section kept overflowing from the container where there's background-colour.
-    *   This is partially fixed with multiple media queries but at some very specific pixel range it still overflows. 
+    *   This is fixed by giving the about-right section a height of fit-content.
+    *   Also, changed when the flex-direction becomes column at a higher break point in the media query.
 
 * The iFrame on the contact & submit page sometimes does not load in. This most likely is because the browser simply just does not respond. After refreshing the iFrame shows up.
+
+* The performance score of the website is low when tested through Lighthouse.
+    *   The performance score of the website is vastly improve across the board from 30-40 to 70-97.
+    *   This is achieved by converting image files from .JPG to .WEBP.
 
 ## Deployment
 
