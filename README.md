@@ -100,6 +100,17 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 
     ![Brochure](documentation/support-images/f11-brochure-iframe.png)
 
+### Future Features
+
+* **1 - Hamburger Menu Bar**
+    * The hamburger meun bar will provide the users with a better UX on smaller viewports.
+
+* **2 - Fixed Menu Bar**
+    * The fixed menu bar will also help provide the users with a better UX when navigating through the website.
+
+* **3 - Flipbook stlye Gallery**
+    * The gallery on medium to large screen size would be in a flip book style to provide a more interactive experience to the users.
+
 ## Design
 
 ### Imagery
