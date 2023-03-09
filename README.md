@@ -207,6 +207,7 @@ Sotofox Home Designer & Artist is a website dedicated to showcasing the interior
 * Lighthouse Accessibility Validator
 
     * The poor performance issue is due to the size and resolution of the images present on the website. More details in the bug section below.
+    * The poor performance on mobile on contact page and submit page is most likely due to the iFrame. To improve performance, the iFrame could potennitally be removed and replaced with an image of the first page of the brochure.
 
     *   result for index.html
 
