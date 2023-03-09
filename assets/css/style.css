@@ -251,12 +251,12 @@ tr th {
     font-size: 120%;
 }
 
-/* ---- Start - This code is obtained from stackoverflow ---- */
+/* ---- Start - This code is obtained from https://stackoverflow.com/questions/3084261/alternate-table-row-color-using-css ---- */
 tr:nth-child(even) td {
     background-color: rgba(255, 179, 15, 0.3);
 }
 
-/* ---- End - This code is obtained from stackoverflow ---- */
+/* ---- End ---- */
 
 /* ----------------------- Gallery Page----------------------- */
 /* ------------- Gallery Section ------------- */
@@ -277,10 +277,12 @@ tr:nth-child(even) td {
     margin-bottom: 20px;
 }
 
+/*  this section is from https://code-boxx.com/responsive-image-gallery-html-css/ */
 #gallery img:hover {
     transform: scale(1.1);
     transition: transform ease 0.5s;
 }
+/*  end section */
 
 #gallery-header {
     display: none;
@@ -353,7 +355,7 @@ textarea {
     resize: none;
 }
 
-/* ---- Start - This code is obtained from stackoverflow ---- */
+/* ---- Start - This code is obtained from https://stackoverflow.com/questions/75550807/styling-form-so-that-they-are-side-by-side-horizontally ---- */
 .container {
     display: grid;
     gap: 1rem;
@@ -385,7 +387,7 @@ label[for='message'] {
     grid-area: message;
 }
 
-/* ---- End - This code is obtained from stackoverflow ---- */
+/* ---- End ---- */
 
 label p {
     margin: 0;
